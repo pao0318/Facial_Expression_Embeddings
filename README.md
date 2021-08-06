@@ -1,5 +1,9 @@
 # Facial_Expression_Embeddings
 This paper was done originally from research paper
+### Dataset
+ Facial Expression Comparison
+(FEC) dataset, that consists of around 500K expression
+triplets generated using 156K face images,
 
 ## Acknowledgments
 
